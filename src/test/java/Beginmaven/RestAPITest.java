@@ -14,6 +14,9 @@ public class RestAPITest {
 		System.out.println("postjira6");
 		System.out.println("postjira7");
 		System.out.println("postjira8");
+		System.out.println("postjira324");
+		System.out.println("postjira325");
+		System.out.println("postjira326");
 		
 		
 	}
